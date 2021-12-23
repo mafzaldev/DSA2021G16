@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ambulance_service.Ambulance">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAI=</HashCode>
+      <FileName>Ambulance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.AmbulanceQueue">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>AmbulanceQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.EmpAmb_CRUD">
+    <Position X="13.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAQQAAAAAARAAAAAIAAgCAA=</HashCode>
+      <FileName>EmpAmb_CRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.employee">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAAAAAgAAAgAAAEAAFAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.Hospital">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAQCAAGAAAgAAIAAAAECAABIAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.QuestionBank">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAgAAAAAAAAgBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuestionBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.Call">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAIAAAAAAAAAAAAAAAAAAEAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Call.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.CallQueue">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>CallQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.ECF">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAQAAEACAAACABTAAUEgAgDCAEAAEAAgAAAAAAAAAQA=</HashCode>
+      <FileName>ECF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.ECF_Factory">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAEAAAAAABAAgAAAAAAEAAAIAI=</HashCode>
+      <FileName>ECF_Factory.cs</FileName>
+      <NewMemberFileName>ECF.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.BST">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>BST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.HospitalFactory">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>HospitalFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.CityMap">
+    <Position X="9.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAADAA=</HashCode>
+      <FileName>CityMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="16" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Ambulance_service.AreaNode">
+    <Position X="6.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AreaNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ambulance_service.Question">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAI=</HashCode>
+      <FileName>Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ambulance_service.designation">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>designation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ambulance_service.ShiftNumber">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShiftNumber.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ambulance_service.VehicleType">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>VehicleType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

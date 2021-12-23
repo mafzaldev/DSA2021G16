@@ -1,0 +1,15 @@
+
+*.pdb
+*.exe
+Ambulance service/Ambulance service/bin/Debug/Ambulance service.pdb
+Ambulance service/Ambulance service/obj/Debug/Ambulance service.pdb
+Ambulance service/Ambulance service/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+Ambulance service/Ambulance service/obj/Debug/Ambulance service.csproj.AssemblyReference.cache
+Ambulance service/Ambulance service/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.resources
+*.cache
+Ambulance service/Ambulance service/obj/Debug/Ambulance service.csproj.FileListAbsolute.txt
+Ambulance service/Ambulance service/bin/Debug/Ambulance service.exe.config
+Ambulance service/.vs/Ambulance service/v16/.suo
+Ambulance service/Ambulance service/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
+Ambulance service/.vs/Ambulance service/v16/.suo
